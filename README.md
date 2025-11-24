@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
 	<img src="https://i.imgur.com/Ok56fSu.png" width="150px"><br>
     Dragon
@@ -237,3 +238,6 @@ Me<br>
 <a href="https://github.com/azek10">
 Azek<br>
 </a>
+=======
+# new
+>>>>>>> 4dec95f2271ae5bf2df2f9f4d9c46ff5adf73f6b
