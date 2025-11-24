@@ -107,7 +107,7 @@ class BulkWalletChecker:
             print(f"[🐲] Loaded cached data for wallet {wallet}.")
             return self.walletCache[wallet]
 
-        http://172.86.110.62:1337/defi/quotation/v1/smartmoney/sol/walletNew/{wallet}?period=7d"
+        url = f"http://172.86.110.62:1337/defi/quotation/v1/smartmoney/sol/walletNew/{wallet}?period=7d"
         
         while True:
             try:
